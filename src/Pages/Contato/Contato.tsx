@@ -17,7 +17,7 @@ export default function Contato() {
                 <input className="email" placeholder="E-mail" type='email'/>
                 <input className="phone" placeholder="Telefone" type='tel'/>
                 <textarea className="mensage" placeholder="Sua Mensagem"/>
-                <input type='submit' aria-label='Formulário de contato com a Hiiatus'/>
+                <input type='submit' aria-label='Formulário de contato com a agencia'/>
             </form>
         </All>
     );

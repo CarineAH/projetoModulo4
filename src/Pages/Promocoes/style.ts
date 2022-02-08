@@ -45,6 +45,11 @@ export const All = styled.div`
                 outline: 0;
                 font-size: 2rem;
                 font-weight: bolder;
+                cursor:pointer;
+                transition: all .3 ease-in-out;
+                &:hover{
+                    font-size: 2.5rem;  
+                }
             }
         }
     }
